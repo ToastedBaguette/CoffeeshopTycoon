@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Github Repository/NMP/160420041_UTSNMP/app/src/main/res/layout/activity_login.xml" value="0.24635416666666668" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2255" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1606425702811245" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/activity_login2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/activity_preperation.xml" value="0.264" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/activity_result.xml" value="0.264" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/activity_simulation.xml" value="0.2" />
+        <entry key="..\:/Github Repository/NMP/ProjectUts/app/src/main/res/layout/item_simulation.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
